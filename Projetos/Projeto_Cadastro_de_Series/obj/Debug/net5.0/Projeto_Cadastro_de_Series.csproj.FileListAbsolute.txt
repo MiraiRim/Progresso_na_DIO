@@ -1,0 +1,16 @@
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\obj\Debug\net5.0\Projeto_Cadastro_de_Series.csproj.AssemblyReference.cache
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\obj\Debug\net5.0\Projeto_Cadastro_de_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\obj\Debug\net5.0\Projeto_Cadastro_de_Series.AssemblyInfoInputs.cache
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\obj\Debug\net5.0\Projeto_Cadastro_de_Series.AssemblyInfo.cs
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\obj\Debug\net5.0\Projeto_Cadastro_de_Series.csproj.CoreCompileInputs.cache
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\bin\Debug\net5.0\Projeto_Cadastro_de_Series.exe
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\bin\Debug\net5.0\Projeto_Cadastro_de_Series.deps.json
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\bin\Debug\net5.0\Projeto_Cadastro_de_Series.runtimeconfig.json
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\bin\Debug\net5.0\Projeto_Cadastro_de_Series.runtimeconfig.dev.json
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\bin\Debug\net5.0\Projeto_Cadastro_de_Series.dll
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\bin\Debug\net5.0\ref\Projeto_Cadastro_de_Series.dll
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\bin\Debug\net5.0\Projeto_Cadastro_de_Series.pdb
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\obj\Debug\net5.0\Projeto_Cadastro_de_Series.dll
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\obj\Debug\net5.0\ref\Projeto_Cadastro_de_Series.dll
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\obj\Debug\net5.0\Projeto_Cadastro_de_Series.pdb
+C:\Users\Fabiana\Projeto_Cadastro_de_Series\obj\Debug\net5.0\Projeto_Cadastro_de_Series.genruntimeconfig.cache
